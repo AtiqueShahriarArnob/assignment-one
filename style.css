@@ -72,7 +72,6 @@
     height: 162px;
     left: 871px;
     top: 1415px;
-    list-style-type: "\2714\0020";
     margin-bottom:128px ;
     margin-right: 380px;
 }
@@ -83,6 +82,22 @@
     text-align: center;
     color: #151414;
     margin-bottom: 54px;
+}
+.a{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.b{
+   margin-left:52px ;
+   margin-bottom: 30px;
+}
+.c{
+   margin-left: 60px;
+   margin-bottom: 30px;
+}
+.d{
+   margin-left: 57px;
+   margin-bottom: 30px;
 }
 .all-sec{
     display: flex;
@@ -104,7 +119,8 @@
     line-height: 29px;
     text-align: center;
     color: #737272;
-}.wat-img{
+}
+.wat-img{
     margin-left: 225px;
 }
 .wat-img{
@@ -214,4 +230,7 @@
     background:#005FAC; 
     border-radius: 5px;
     border: none;   
+}
+.tik{
+    display: flex;
 }
