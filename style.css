@@ -231,6 +231,10 @@
     border-radius: 5px;
     border: none;   
 }
-.tik{
-    display: flex;
+.fa-solid{
+   width: 24px;
+   height: 24px;
+   left: 862px;
+   top: 1417px;
+   color:#16D887 ;
 }
