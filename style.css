@@ -1,0 +1,217 @@
+*{
+    font-family: 'Work Sans';
+} 
+.banner-tit{
+    line-height: 76px;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: white;
+    margin-right: 230px;
+    margin-bottom: 24px;
+    padding-top: 216px;
+}
+.banner-dis{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    color: white;
+    margin-right: 230px;
+    margin-bottom: 32px;
+}
+.but-one{
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    color: #005FAC;
+    padding: 20px 25px;
+    margin-left: 1110px;
+    width: 160px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.header{
+    height: 808px;
+    width:100% ;
+    background-image:url("images/banner/banner3.png") ;
+    background-repeat: no-repeat;
+    background-size:100%; 
+    margin-bottom: 130px; 
+}
+.main-div{
+    display: flex;
+    align-items: center;
+    gap: 87px;
+    width: 1072px;
+    height: 723.3px;
+    margin-left: 225px;
+}
+.img{
+    width: 569px;
+    height: 723.3px;
+
+}
+.main-tit{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom:24px ;
+}
+.main-dis{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.dot{
+    width: 349px;
+    height: 162px;
+    left: 871px;
+    top: 1415px;
+    list-style-type: "\2714\0020";
+    margin-bottom:128px ;
+    margin-right: 380px;
+}
+.pla{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+    margin-bottom: 54px;
+}
+.all-sec{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 130px;
+
+}
+.sec-tit{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-bottom: 16px;
+}
+.sec-dis{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}.wat-img{
+    margin-left: 225px;
+}
+.wat-img{
+    margin-left: 207px;
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    background: linear-gradient(90deg, hsla(207, 100%, 34%, 0.90) 0%, rgba(0, 95, 172, 0) 100%),url("images/watch.png");;
+    border-radius: 8px;
+    margin-bottom: 130px;
+}
+.wat-hed{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding-top: 59px;
+    padding-left: 64px;
+    margin-bottom: 24px;
+}
+.but-two{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #005FAC;width: 160px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-left: 64px;
+    border: none;
+}
+.foot{
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+    background: #151414;
+    padding-left: 230px;
+    padding-top: 138px;
+}
+.foot-hed{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;   
+}
+.foot-dis{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.foot-mail{
+    width: 184px;
+    height: 26px;
+    left: 230px;
+    top: 2952.96px;
+    color: #FFFFFF;    
+}
+.foot-num{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF; 
+}
+.foot-form{
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    padding-right: 230px;
+    padding-top:130;
+}
+.foot-div{
+    display: flex;
+    gap:332px;
+}
+.sub{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.for{
+    width: 325px;
+    height: 64px;
+    left: 1046px;
+    top: 2841.96px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+.pra{
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+    padding-left: 21px;
+}
+.but-three{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color:white ;
+    width: 160px;
+    height: 64px;
+    background:#005FAC; 
+    border-radius: 5px;
+    border: none;   
+}
